@@ -1,0 +1,6 @@
+{
+  "name": "ORBITA MOBILE — 3D Smartfonlar Do'koni",
+  "description": "3D animatsiyalar bilan boyitilgan zamonaviy smartfonlar do'koni va avtomatik Telegram buyurtma tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
