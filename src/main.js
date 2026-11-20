@@ -2,7 +2,7 @@
 // 3D Smartphone Showcase, Interactive Catalog, Cart & Automatic Telegram Order Delivery
 
 const TELEGRAM_BOT_TOKEN = '9192827226:AAEIaAct_c-YlZgXQIkKXVQ3RjoAAqhOvTo';
-const TELEGRAM_CHANNEL_ID = '8645347903';
+const TELEGRAM_CHANNEL_ID = '-1003878917898';
 
 const PHONES = [
   {
